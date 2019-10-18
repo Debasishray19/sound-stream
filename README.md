@@ -1,7 +1,7 @@
 # Sound Stream
 
 ## Project Description:
-The goal of this project was to build an interactive physical interface that could control the articulatory and acoustic parameters of an articulatory speech synthesis in real-time to produce speech sound (vowel sound). The interface was built as a part of course requirement [UBC CPEN 541-Human Interface Technologies](https://courses.ece.ubc.ca/518/). Later the project was extended and implemented on [Artisynth](https://www.artisynth.org/Main/HomePage) and presented (poster presentation) at the [176<sup>th</sup> joint meeting of ASA-CAA](https://acousticalsociety.org/176th-meeting-acoustical-society-of-america/), Victoria, BC, Canada.
+The goal of this project was to build an interactive physical interface that could control the articulatory and acoustic parameters of an articulatory speech synthesis in real-time to produce speech sound (vowel sound). The interface was built as a part of course requirement [UBC CPEN 541-Human Interface Technologies](https://courses.ece.ubc.ca/518/), April 2018. Later the project was extended and implemented on [Artisynth](https://www.artisynth.org/Main/HomePage) and presented (poster presentation) at the [176<sup>th</sup> joint meeting of ASA-CAA](https://acousticalsociety.org/176th-meeting-acoustical-society-of-america/), Victoria, BC, Canada.
 
 ## Technical Details:
 * [JASS SDK](http://persianney.com/kvdoelcsubc/jass/) is used to control the in-built one-dimensional area function based articulatory speech synthesizer.
