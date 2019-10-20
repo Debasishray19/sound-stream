@@ -27,7 +27,7 @@ The goal of this project was to build an interactive physical interface that cou
                     	valRosenberg[3] = sketch_obj.circleY/675;
                      	//END
  ```
-**[Note]** I have not provided the code for reading slider sensor output using Arduino as you might be using different I/O PINs and the code is very simple and straight-forward.
+**[Note]** I have not provided the code for reading slider sensor outputs using Arduino as you might be using different I/O PINs and the code is very simple and straight-forward.
 
 ### Project Contributors:
  Debasish Ray Mohapatra, [Pramit Saha](https://github.com/Pramit15), [Praneeth SV](https://github.com/Praneethsv)
