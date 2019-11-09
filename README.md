@@ -8,7 +8,11 @@ The goal of this project was to build an interactive physical interface that cou
 * To control the vocal fold parameters, two interfaces are built and a comparision is made in terms of its flexibility and usability.
   * Mouse based controller (Using a two-dimensional interactive pad)
   * Slider sensor (Based upon slider positions)
-  
+
+<img src="assets/img/img2.JPG" width="625">
+<img src="assets/img/img3.JPG" width="625">
+<img src="assets/img/img1.JPG" width="625">
+
 **Tools Used:** JASS SDK (Java based), Artisynth, MATLAB (image processing toolkit), Processing (p5.js), Computer mouse, Arduino, Phidgets Slider Sensor, Document camera and others (boards, paper, black tape etc.) 
 
 ### How To Use:
