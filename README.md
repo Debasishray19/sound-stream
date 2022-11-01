@@ -47,7 +47,7 @@ The goal of this project was to build an interactive physical interface that cou
 [2] SOUND-STREAM II: Towards real-time gesture-controlled articulatory sound synthesis. [Conference Paper](https://arxiv.org/pdf/1811.08029.pdf), 176th joint meeting of ASA-CAA conference, Victoria, BC Canada.
 
 ### Demo:
-* The [demo](https://github.com/Debasishray19/SoundStream/blob/master/assets/videoDemo.mp4) video demonstrates the working principle of the interface. 
+* The [demo](https://github.com/Debasishray19/SoundStream/blob/master/assets/videoDemo.mp4) video demonstrates the working principle of our interface. 
 
 * A short powerpoint [presentation](https://github.com/Debasishray19/SoundStream/blob/master/assets/DemoSession.pdf) of our work.
 
