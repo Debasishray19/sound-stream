@@ -36,8 +36,6 @@ The goal of this project was to build an interactive physical interface that cou
 ### Project Contributors:
  Debasish Ray Mohapatra, [Pramit Saha](https://github.com/Pramit15), [Praneeth SV](https://github.com/Praneethsv)
 
-*My Contribution: Helped in designing the physical tube (vocal tract), arduino programming (to feed data to JASS SDK/Artisynth), Design the mouse-controlled source-model (vocal fold) using [Processing](https://processing.org/) in java environemnt*
-
 ### References:
 
 *For more details please follow these papers:*
